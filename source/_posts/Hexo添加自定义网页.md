@@ -24,6 +24,9 @@ layout: false
 ```
 
 ## 完成
+> 执行如下命令查看效果。
+
 ```
-执行hexo g、hexo s查看效果。
+hexo g  // 生成静态网页
+hexo s  // 本地预览效果
 ```
